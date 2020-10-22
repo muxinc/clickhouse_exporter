@@ -9,7 +9,7 @@ go:
   - 1.14.x
   - tip
 
-go_import_path: github.com/Percona-Lab/clickhouse_exporter
+go_import_path: github.com/muxinc/clickhouse_exporter
 
 # skip non-trunk PMM-XXXX branch builds, but still build pull requests
 branches:
